@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+ <head> 
+	<style>
+     body {background-color: yellow;} 
+     .asset {color: gray; font-weight:bold;}
+  h1 {color:black}
+   </style>
+</head>
+   
+   <body>
+
+
+<h1 class="title">THIS IS </h1> <h1 class="asset"> Example2#index</h1>
+
+<hr />
+
+PAGE:   <%= params['page']%></br>
+NEXT PAGE:   <%= @page + 1%></br>
+ID:     <%= @id%></br>
+
+<hr />
+
+<%= params.inspect %>
+ACTION: <%= @action%></br>
+
+  </body>
