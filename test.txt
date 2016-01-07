@@ -1,0 +1,2 @@
+this is a file being writting in RUBY, with a master.rb file to a test txt file
+just to be sure this works like promised.

@@ -1,0 +1,14 @@
+
+A basic content management system webapp in ROR using MySQL with WAMP.
+
+
+Supports user authentication with password length and character restrictions
+Admin user and general user CURD functionality with editable permissions
+Connects to mySQL db for content mangagement and users
+Uses the MVC framework with a single Controller per Model 
+RESTful routes implemented   |*REST = Representational State Transformations
+Content system divided into: Subjects, Sections and Pages with ability to CURD each one/timestamped.
+UI keeps active users.id visible.
+
+
+ 
