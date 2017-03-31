@@ -1,7 +1,7 @@
 # Ruby and Rails
 
 
-This is a collection of my Ruby folder with practice and toy projects. 
+Collection of toy problems, koans and other programs;
 
 ### Contents:
 
@@ -9,4 +9,3 @@ This is a collection of my Ruby folder with practice and toy projects.
   
  > Rails CMS  - MVC ROR app.
 
- > Ruby Koans
